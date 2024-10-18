@@ -40,8 +40,8 @@ criaCartao(
 )
 criaCartao(
     'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'O que é um número primo?',
+    'Qual é a fórmula da área de um triângulo?'
 )
 criaCartao(
     'Matemática',
