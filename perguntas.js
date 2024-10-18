@@ -44,14 +44,14 @@ criaCartao(
     'Qual é a fórmula da área de um triângulo?'
 )
 criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Portugues',
+    'O que é uma oração subordinada?',
+    'Qual é a diferença entre substantivo e adjetivo?'
 )
 criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Biologia',
+    'O que é fotossíntese?',
+    'Quais são os principais grupos de seres vivos?'
 )
 criaCartao(
     'Matemática',
