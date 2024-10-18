@@ -17,7 +17,37 @@ criaCartao(
 )
 
 criaCartao(
+    'História',
+    'O que foi a Revolução Francesa?',
+    'Quais foram as principais civilizações da Antiguidade?'
+)
+
+criaCartao(
+    'Biologia',
+    'O que são células procariontes e eucariontes?',
+    'Qual é a função dos ribossomos?'
+)
+
+criaCartao(
     'Matemática',
+    'Qual a ordem de prioridade em expressão numérica?',
+    'Parênteses, colchetes e chaves'
+)
+
+criaCartao(
+    'Portugues',
+    'Qual a ordem de prioridade em expressão numérica?',
+    'Parênteses, colchetes e chaves'
+)
+
+criaCartao(
+    'História',
+    'Qual a ordem de prioridade em expressão numérica?',
+    'Parênteses, colchetes e chaves'
+)
+
+criaCartao(
+    'Biologia',
     'Qual a ordem de prioridade em expressão numérica?',
     'Parênteses, colchetes e chaves'
 )
@@ -29,7 +59,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática',
+    'Portugues',
+    'Qual a ordem de prioridade em expressão numérica?',
+    'Parênteses, colchetes e chaves'
+)
+
+criaCartao(
+    'HIstória',
+    'Qual a ordem de prioridade em expressão numérica?',
+    'Parênteses, colchetes e chaves'
+)
+
+criaCartao(
+    'Bilogia',
     'Qual a ordem de prioridade em expressão numérica?',
     'Parênteses, colchetes e chaves'
 )
@@ -41,7 +83,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática',
+    'Potugues',
+    'Qual a ordem de prioridade em expressão numérica?',
+    'Parênteses, colchetes e chaves'
+)
+
+criaCartao(
+    'História',
+    'Qual a ordem de prioridade em expressão numérica?',
+    'Parênteses, colchetes e chaves'
+)
+
+criaCartao(
+    'Biologia',
     'Qual a ordem de prioridade em expressão numérica?',
     'Parênteses, colchetes e chaves'
 )
@@ -53,61 +107,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
-)
-
-criaCartao(
-    'Matemática',
+    'Portugue',
     'Qual a ordem de prioridade em expressão numérica?',
     'Parênteses, colchetes e chaves'
 )
