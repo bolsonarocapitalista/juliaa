@@ -40,7 +40,7 @@ footer {
 }
 
 .cartao{
-    background-color: var(--frente-cartao);
+    background-color: var(--frente-carta);
     border: 1px solid var(--destaque);
     padding: 40px;
     color: var(--branco);
