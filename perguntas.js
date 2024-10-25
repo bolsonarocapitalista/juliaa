@@ -25,10 +25,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'O que são células procariontes e eucariontes?',
-    'Células procariontes: São mais simples e pequenas. Não possuem núcleo definido; o material genético (DNA) está solto no citoplasma. Exemplo: bactérias. Células eucariontes: São mais complexas e maiores.
-Possuem núcleo definido, onde o DNA está organizado.
-Contêm organelas, como mitocôndrias e retículo endoplasmático.
-Exemplo: células de plantas e animais.'
+    'Células procariontes: São mais simples e pequenas. Não possuem núcleo definido; o material genético (DNA) está solto no citoplasma. Exemplo: bactérias. Células eucariontes: São mais complexas e maiores.Possuem núcleo definido, onde o DNA está organizado. Contêm organelas, como mitocôndrias e retículo endoplasmático. Exemplo: células de plantas e animais.'
 )
 
 criaCartao(
