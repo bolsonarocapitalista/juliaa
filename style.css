@@ -20,12 +20,12 @@ header{
 }
 
 header a {
-    color: var(--branco);
+    color: var(--destaque);
     text-decoration: none;
 }
 
 footer {
-    background-color: var(--preto);
+    background-color: var(--frente-cartao);
     position: fixed;
     bottom: 0;
     color: var(--branco);
