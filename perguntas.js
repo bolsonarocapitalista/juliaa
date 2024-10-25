@@ -31,7 +31,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual é a fórmula da área de um triângulo?',
-    ' A = (base × altura) / 2.'
+    ' A = (base x altura) / 2.'
 )
 
 criaCartao(
