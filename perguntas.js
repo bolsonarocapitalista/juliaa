@@ -1,7 +1,7 @@
 criaCartao(
     'Biologia',
     'O que é fotossíntese?',
-    'Quais são os principais grupos de seres vivos?'
+    ' Processo que converte luz solar em energia.'
 )
 
 criaCartao(
@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Portugues',
     'O que é uma oração subordinada?',
-    'Qual é a diferença entre substantivo e adjetivo?'
+    'Depende de outra para sentido completo.'
 )
 
 criaCartao(
