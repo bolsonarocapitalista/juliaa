@@ -1,7 +1,7 @@
 :root{
     --fundo: #887cce;
     --frente-cartao: #4841a8;
-    --verso-cartao: #5F9EA0;
+    --verso-cartao: #e4e4e4;
     --destaque: #000080;
     --preto: #000000;
     --branco: #FFFFFF;
@@ -13,14 +13,14 @@ body{
 }
 
 header{
-    background-color: var(--preto);
+    background-color: var(--verso-cartao);
     display: flex;
     justify-content: space-around;
     padding: 2rem;
 }
 
 header a {
-    color: var(--destaque);
+    color: var(--frente-cartao);
     text-decoration: none;
 }
 
@@ -31,4 +31,10 @@ footer {
     color: var(--branco);
     width: 100%;
     text-align: center;
+}
+
+#container{
+    display: grid;
+    gap: 3rem;
+    padding: 2rem;
 }
