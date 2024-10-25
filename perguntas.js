@@ -1,7 +1,7 @@
 criaCartao(
     'Biologia',
     'O que é fotossíntese?',
-    `Processo que converte luz solar em energia.'
+    'Processo que converte luz solar em energia.'
 )
 
 criaCartao(
@@ -25,14 +25,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'O que são células procariontes e eucariontes?',
-    'Células procariontes:
-
-São mais simples e pequenas.
-Não possuem núcleo definido; o material genético (DNA) está solto no citoplasma.
-Exemplo: bactérias.
-Células eucariontes:
-
-São mais complexas e maiores.
+    'Células procariontes: São mais simples e pequenas. Não possuem núcleo definido; o material genético (DNA) está solto no citoplasma. Exemplo: bactérias. Células eucariontes: São mais complexas e maiores.
 Possuem núcleo definido, onde o DNA está organizado.
 Contêm organelas, como mitocôndrias e retículo endoplasmático.
 Exemplo: células de plantas e animais.'
@@ -117,7 +110,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Portugue',
+    'Portugues',
     'O que são pronomes pessoais?',
     'Substituem substantivos (ex: eu, tu).'
 )
