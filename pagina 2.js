@@ -32,6 +32,6 @@ function mostrarResposta(card){
 
     }
     else{
-        resposta.style.display = 'block'
+        resposta.style.display = 'none'
     }
 }
