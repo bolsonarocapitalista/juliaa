@@ -1,13 +1,13 @@
 criaCartao(
     'Biologia',
     'O que é fotossíntese?',
-    ' Processo que converte luz solar em energia.'
+    `Processo que converte luz solar em energia.'
 )
 
 criaCartao(
     'Matemática',
     'O que é um número primo?',
-    'Qual é a fórmula da área de um triângulo?'
+    'Número maior que 1 com apenas dois divisores: 1 e ele mesmo'
 )
 
 criaCartao(
@@ -19,95 +19,105 @@ criaCartao(
 criaCartao(
     'História',
     'O que foi a Revolução Francesa?',
-    'Quais foram as principais civilizações da Antiguidade?'
+    'Movimento que derrubou a monarquia em 1789'
 )
 
 criaCartao(
     'Biologia',
     'O que são células procariontes e eucariontes?',
-    'Qual é a função dos ribossomos?'
+    'Células procariontes:
+
+São mais simples e pequenas.
+Não possuem núcleo definido; o material genético (DNA) está solto no citoplasma.
+Exemplo: bactérias.
+Células eucariontes:
+
+São mais complexas e maiores.
+Possuem núcleo definido, onde o DNA está organizado.
+Contêm organelas, como mitocôndrias e retículo endoplasmático.
+Exemplo: células de plantas e animais.'
 )
 
 criaCartao(
     'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Qual é a fórmula da área de um triângulo?',
+    ' A = (base × altura) / 2.'
 )
 
 criaCartao(
     'Portugues',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Qual é a diferença entre substantivo e adjetivo?',
+    ' Substantivo nomeia; adjetivo qualifica.'
 )
 
 criaCartao(
     'História',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Quais foram as principais civilizações da Antiguidade?',
+    ' Egípcia, Mesopotâmica, Grega, Romana.'
 )
 
 criaCartao(
     'Biologia',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Qual é a função dos ribossomos?',
+    'Síntese de proteínas.'
 )
 
 criaCartao(
     'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Como se calcula a média aritmética?',
+    ' Soma dos valores dividida pelo número de valores.'
 )
 
 criaCartao(
     'Portugues',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'O que é um verbo transitivo?',
+    ' Exige complemento para sentido.'
 )
 
 criaCartao(
     'HIstória',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'O que caracterizou a Idade Média?',
+    'Período de feudalismo e influência da Igreja.'
 )
 
 criaCartao(
     'Bilogia',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'O que é a cadeia alimentar?',
+    'Sequência de organismos que se alimentam uns dos outros.'
 )
 
 criaCartao(
     'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'O que é uma função linear?',
+    'A função linear se caracteriza por representar um crescimento ou decrescimento constantes. '
 )
 
 criaCartao(
     'Potugues',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Como se forma o passado de um verbo regular?',
+    ' Adiciona terminações como "-ou" ou "-ava".'
 )
 
 criaCartao(
     'História',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Qual a importância da Revolução Industrial?',
+    'Transformou produção artesanal em industrial.'
 )
 
 criaCartao(
     'Biologia',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Como ocorre a reprodução assexuada?',
+    'Sem união de gametas, descendentes idênticos.'
 )
 
 criaCartao(
     'Matemática',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'Qual é a relação entre os ângulos internos de um triângulo?',
+    'A soma dos ângulos internos de um triângulo possui resultado fixo e igual para todos os triângulos e independe de sua classificação, forma ou tamanho. '
 )
 
 criaCartao(
     'Portugue',
-    'Qual a ordem de prioridade em expressão numérica?',
-    'Parênteses, colchetes e chaves'
+    'O que são pronomes pessoais?',
+    'Substituem substantivos (ex: eu, tu).'
 )
