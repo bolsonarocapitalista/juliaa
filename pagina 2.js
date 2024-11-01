@@ -13,7 +13,7 @@ function criaCartao (categoria, pergunta, resposta){
     </div>
 </div>
     `
-    conteiner.appendChild(cartao);
+    container.appendChild(cartao);
     }
 
 function mostrarResposta(card){
