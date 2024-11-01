@@ -114,6 +114,6 @@ criaCartao(
 
 criaCartao(
     'História',
-    'Em que ano o Brasil foi descoberto?',
+    'Em que data o Brasil foi descoberto?',
     '22 de Abril de 1500'
 )
