@@ -13,17 +13,8 @@ function criaCartao (categoria, pergunta, resposta){
     </div>
 </div>
     `
-    let respostaEstavisivel = false;
-
-    function viraCartao(){
-        respostaEstavisivel = !respostaEstavisivel;
-        cartao.classList.toggle('active', respostaEstavisivel)
+    conteiner.appendChild(cartao);
     }
-
-    cartao.addEventListener('click', viraCartao);
-
-    container.appendChild(cartao);
-}
 
 function mostrarResposta(card){
     const resposta = card.querySelector('.resposta-cartao');
