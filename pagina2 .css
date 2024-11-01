@@ -36,7 +36,7 @@ footer {
 #container{
     display: grid;
     gap: 3rem;
-    padding: 2rem;
+    padding: 20px;
 }
 
 .cartao{
@@ -44,7 +44,7 @@ footer {
     border: 1px solid var(--destaque);
     padding: 40px;
     color: var(--branco);
-    box-shadow: 5px 6px 25px var(--branco);
+    box-shadow: 5px 5px 25px var(--branco);
     cursor:pointer;
 }
 
