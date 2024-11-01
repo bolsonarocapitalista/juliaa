@@ -111,3 +111,9 @@ criaCartao(
     'O que são pronomes pessoais?',
     'Substituem substantivos (ex: eu, tu).'
 )
+
+criaCartao(
+    'História',
+    'Em que ano o Brasil foi descoberto?',
+    '22 de Abril de 1500'
+)
